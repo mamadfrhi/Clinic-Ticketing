@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DB_ClinicConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DB_ClinicConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Clinic_App.Properties.Settings.GlobalReference.Default.DB_ClinicConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DB_ClinicConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DB_ClinicConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Clinic_App.Properties.Settings.GlobalReference.Default.DB_ClinicConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Vw_ReceptionTableAdapter" GeneratorDataComponentClassName="Vw_ReceptionTableAdapter" Name="Vw_Reception" UserDataComponentName="Vw_ReceptionTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DB_ClinicConnectionString1 (Settings)" DbObjectName="DB_Clinic.dbo.Vw_Reception" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Vw_Reception.*
+FROM            Vw_Reception</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="name" DataSetColumn="name" />
+              <Mapping SourceColumn="mobile" DataSetColumn="mobile" />
+              <Mapping SourceColumn="Dr_Name" DataSetColumn="Dr_Name" />
+              <Mapping SourceColumn="ServTitle" DataSetColumn="ServTitle" />
+              <Mapping SourceColumn="SecTitle" DataSetColumn="SecTitle" />
+              <Mapping SourceColumn="VisitDate" DataSetColumn="VisitDate" />
+              <Mapping SourceColumn="VisitTime" DataSetColumn="VisitTime" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Tbl_PatientTableAdapter" GeneratorDataComponentClassName="Tbl_PatientTableAdapter" Name="Tbl_Patient" UserDataComponentName="Tbl_PatientTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DB_ClinicConnectionString1 (Settings)" DbObjectName="DB_Clinic.dbo.Tbl_Patient" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM [Tbl_Patient] WHERE (([ID] = @Original_ID) AND ([name] = @Original_name) AND ([adrs] = @Original_adrs) AND ([mobile] = @Original_mobile) AND ([Ncode] = @Original_Ncode) AND ((@IsNull_CountOfPictures = 1 AND [CountOfPictures] IS NULL) OR ([CountOfPictures] = @Original_CountOfPictures)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_ID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_name" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="name" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_adrs" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="adrs" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_mobile" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="mobile" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_Ncode" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Ncode" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CountOfPictures" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CountOfPictures" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_CountOfPictures" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CountOfPictures" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO [Tbl_Patient] ([name], [adrs], [mobile], [Ncode], [CountOfPictures]) VALUES (@name, @adrs, @mobile, @Ncode, @CountOfPictures);
+SELECT ID, name, adrs, mobile, Ncode, CountOfPictures FROM Tbl_Patient WHERE (ID = SCOPE_IDENTITY())</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@name" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="name" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@adrs" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="adrs" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@mobile" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="mobile" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Ncode" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Ncode" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@CountOfPictures" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CountOfPictures" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Tbl_Patient.*
+FROM            Tbl_Patient</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE [Tbl_Patient] SET [name] = @name, [adrs] = @adrs, [mobile] = @mobile, [Ncode] = @Ncode, [CountOfPictures] = @CountOfPictures WHERE (([ID] = @Original_ID) AND ([name] = @Original_name) AND ([adrs] = @Original_adrs) AND ([mobile] = @Original_mobile) AND ([Ncode] = @Original_Ncode) AND ((@IsNull_CountOfPictures = 1 AND [CountOfPictures] IS NULL) OR ([CountOfPictures] = @Original_CountOfPictures)));
+SELECT ID, name, adrs, mobile, Ncode, CountOfPictures FROM Tbl_Patient WHERE (ID = @ID)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@name" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="name" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@adrs" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="adrs" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@mobile" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="mobile" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Ncode" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Ncode" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@CountOfPictures" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CountOfPictures" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_ID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_name" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="name" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_adrs" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="adrs" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_mobile" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="mobile" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_Ncode" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Ncode" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CountOfPictures" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CountOfPictures" SourceColumnNullMapping="true" SourceVersion="Original" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_CountOfPictures" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CountOfPictures" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="ID" ColumnName="ID" DataSourceName="DB_Clinic.dbo.Tbl_Patient" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@ID" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="ID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="name" DataSetColumn="name" />
+              <Mapping SourceColumn="adrs" DataSetColumn="adrs" />
+              <Mapping SourceColumn="mobile" DataSetColumn="mobile" />
+              <Mapping SourceColumn="Ncode" DataSetColumn="Ncode" />
+              <Mapping SourceColumn="CountOfPictures" DataSetColumn="CountOfPictures" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Vw_Reception" msprop:Generator_TableClassName="Vw_ReceptionDataTable" msprop:Generator_TableVarName="tableVw_Reception" msprop:Generator_TablePropName="Vw_Reception" msprop:Generator_RowDeletingName="Vw_ReceptionRowDeleting" msprop:Generator_RowChangingName="Vw_ReceptionRowChanging" msprop:Generator_RowEvHandlerName="Vw_ReceptionRowChangeEventHandler" msprop:Generator_RowDeletedName="Vw_ReceptionRowDeleted" msprop:Generator_UserTableName="Vw_Reception" msprop:Generator_RowChangedName="Vw_ReceptionRowChanged" msprop:Generator_RowEvArgName="Vw_ReceptionRowChangeEvent" msprop:Generator_RowClassName="Vw_ReceptionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:int" />
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="mobile" msprop:Generator_ColumnVarNameInTable="columnmobile" msprop:Generator_ColumnPropNameInRow="mobile" msprop:Generator_ColumnPropNameInTable="mobileColumn" msprop:Generator_UserColumnName="mobile">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Dr_Name" msprop:Generator_ColumnVarNameInTable="columnDr_Name" msprop:Generator_ColumnPropNameInRow="Dr_Name" msprop:Generator_ColumnPropNameInTable="Dr_NameColumn" msprop:Generator_UserColumnName="Dr_Name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ServTitle" msprop:Generator_ColumnVarNameInTable="columnServTitle" msprop:Generator_ColumnPropNameInRow="ServTitle" msprop:Generator_ColumnPropNameInTable="ServTitleColumn" msprop:Generator_UserColumnName="ServTitle" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SecTitle" msprop:Generator_ColumnVarNameInTable="columnSecTitle" msprop:Generator_ColumnPropNameInRow="SecTitle" msprop:Generator_ColumnPropNameInTable="SecTitleColumn" msprop:Generator_UserColumnName="SecTitle">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VisitDate" msprop:Generator_ColumnVarNameInTable="columnVisitDate" msprop:Generator_ColumnPropNameInRow="VisitDate" msprop:Generator_ColumnPropNameInTable="VisitDateColumn" msprop:Generator_UserColumnName="VisitDate" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VisitTime" msprop:Generator_ColumnVarNameInTable="columnVisitTime" msprop:Generator_ColumnPropNameInRow="VisitTime" msprop:Generator_ColumnPropNameInTable="VisitTimeColumn" msprop:Generator_UserColumnName="VisitTime" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Tbl_Patient" msprop:Generator_TableClassName="Tbl_PatientDataTable" msprop:Generator_TableVarName="tableTbl_Patient" msprop:Generator_TablePropName="Tbl_Patient" msprop:Generator_RowDeletingName="Tbl_PatientRowDeleting" msprop:Generator_RowChangingName="Tbl_PatientRowChanging" msprop:Generator_RowEvHandlerName="Tbl_PatientRowChangeEventHandler" msprop:Generator_RowDeletedName="Tbl_PatientRowDeleted" msprop:Generator_UserTableName="Tbl_Patient" msprop:Generator_RowChangedName="Tbl_PatientRowChanged" msprop:Generator_RowEvArgName="Tbl_PatientRowChangeEvent" msprop:Generator_RowClassName="Tbl_PatientRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:int" />
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="adrs" msprop:Generator_ColumnVarNameInTable="columnadrs" msprop:Generator_ColumnPropNameInRow="adrs" msprop:Generator_ColumnPropNameInTable="adrsColumn" msprop:Generator_UserColumnName="adrs">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="mobile" msprop:Generator_ColumnVarNameInTable="columnmobile" msprop:Generator_ColumnPropNameInRow="mobile" msprop:Generator_ColumnPropNameInTable="mobileColumn" msprop:Generator_UserColumnName="mobile">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Ncode" msprop:Generator_ColumnVarNameInTable="columnNcode" msprop:Generator_ColumnPropNameInRow="Ncode" msprop:Generator_ColumnPropNameInTable="NcodeColumn" msprop:Generator_UserColumnName="Ncode">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CountOfPictures" msprop:Generator_ColumnVarNameInTable="columnCountOfPictures" msprop:Generator_ColumnPropNameInRow="CountOfPictures" msprop:Generator_ColumnPropNameInTable="CountOfPicturesColumn" msprop:Generator_UserColumnName="CountOfPictures" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Vw_Reception" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="Tbl_Patient_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Tbl_Patient" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d4b62db8c00e4190aaac93c8f3ce88b9" Name="Diagram1" ZoomLevel="100">
+        <EntityTypeShape EntityType="DB_Clinic.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_Doctor" Width="1.5" PointX="0.75" PointY="11" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_Pat_Images" Width="1.5" PointX="3" PointY="6.875" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_Patient" Width="1.5" PointX="0.75" PointY="2.625" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_Reception" Width="1.5" PointX="3" PointY="2.375" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_Role" Width="1.5" PointX="5.75" PointY="1.5" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_Section" Width="1.5" PointX="0.75" PointY="8.625" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_Service" Width="1.5" PointX="0.75" PointY="6.25" />
+        <EntityTypeShape EntityType="DB_Clinic.Tbl_User" Width="1.5" PointX="8" PointY="1" />
+        <EntityTypeShape EntityType="DB_Clinic.Vw_Dr" Width="1.5" PointX="7.75" PointY="4.75" />
+        <EntityTypeShape EntityType="DB_Clinic.Vw_Pat" Width="1.5" PointX="5.75" PointY="8.75" />
+        <EntityTypeShape EntityType="DB_Clinic.Vw_PatientWithImages" Width="1.5" PointX="7.75" PointY="8.75" />
+        <EntityTypeShape EntityType="DB_Clinic.Vw_Reception" Width="1.5" PointX="2.75" PointY="9.75" />
+        <EntityTypeShape EntityType="DB_Clinic.Vw_Sec" Width="1.5" PointX="9.75" PointY="4.75" />
+        <EntityTypeShape EntityType="DB_Clinic.Vw_Ser" Width="1.5" PointX="9.75" PointY="7.75" />
+        <EntityTypeShape EntityType="DB_Clinic.vw_VisitTime" Width="1.5" PointX="10.75" PointY="0.75" />
+        <AssociationConnector Association="DB_Clinic.FK_Tbl_Reception_Tbl_Doctor" />
+        <AssociationConnector Association="DB_Clinic.FK_Tbl_Pat_Images_Tbl_Patient1" />
+        <AssociationConnector Association="DB_Clinic.FK_Tbl_Reception_Tbl_Patient" />
+        <AssociationConnector Association="DB_Clinic.FK_Tbl_Reception_Tbl_Section" />
+        <AssociationConnector Association="DB_Clinic.FK_Tbl_Reception_Tbl_Service" />
+        <AssociationConnector Association="DB_Clinic.FK_Tbl_User_Tbl_Role1" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="left_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\left_arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camera_flash_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\camera-flash-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\7-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="son1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\son.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0707_user_profile_remove_delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\thin-0707_user_profile_remove_delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_39_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\39-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Save-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clinic_clipart_4531" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\clinic-clipart-4531.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search_file_128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\search_file-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mohr_Clinic_red1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Mohr Clinic red1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 1-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\save White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mohr_Clinic_red11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mohr Clinic red1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0722_profile_user_search_find" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\thin-0722_profile_user_search_find.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\next.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Save-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="L105375_OMK093_166" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\L105375-OMK093-166.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0003_write_pencil_new_edit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thin-0003_write_pencil_new_edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Button_Back_1_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Button-Back-1-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edit_11_xxl1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edit-11-xxl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maximize1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\maximize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Very_Basic_Cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Very Basic Cancel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_5122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rsz_mohr_clinic_red1_120_dar_120" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\rsz_mohr_clinic_red1 120 dar 120.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_39_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\39-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user_male2_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\user_male2-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="index2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\index.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_51g2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\7-51g2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="L105375_OMK093_1661" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\L105375-OMK093-1661.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_94832_200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\94832-200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mohr_Clinic_red2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mohr Clinic red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Button_Back_1_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Button-Back-1-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_3401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\340.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="settings_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\settings-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="refresh_page_arrow_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\refresh-page-arrow-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="round_add_button_copy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\round-add-button copy2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0131_arrow_back_undo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\thin-0131_arrow_back_undo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marty_mcfly_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\marty-mcfly-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_5dds122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7-5dds12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="medical_clinic_2_building_clipart_046_classroom_clipart_g8FGx8_clipart1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\medical-clinic-2-building-clipart-046-classroom-clipart-g8FGx8-clipart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_011" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 1-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save_file_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\save-file-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GtickSmallBlack1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\GtickSmallBlack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_340" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\340.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GCrossSmallRed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\GCrossSmallRed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="medical_clinic_2_building_clipart_046_classroom_clipart_g8FGx8_clipart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\medical-clinic-2-building-clipart-046-classroom-clipart-g8FGx8-clipart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_94832_2001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94832-200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pointer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Pointer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="settings_51211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\settings-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\7-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0003_write_pencil_new_edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\thin-0003_write_pencil_new_edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Camera_Flashing1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Camera_Flashing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delete_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_5dds12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\7-5dds12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0722_profile_user_search_find1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thin-0722_profile_user_search_find.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tick_mark_icon_png_66191" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tick-mark-icon-png-6619.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Search_8581" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Search_858.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download_to_storage_drive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\download-to-storage-drive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dancing_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\dancing_icon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="save" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Menu_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Menu_1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R105375_OMK093_1661" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\R105375-OMK093-1661.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Back_small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Back small.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="circular_arrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\circular-arrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UploadPhotos_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UploadPhotos-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clinic_clipart_45311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clinic-clipart-4531.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next_Small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\next Small.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user_male2_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user_male2-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gcheckblach1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\gcheckblach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_94832_200_copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\94832-200 copy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delete_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\delete-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 1-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_dd512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\7-dd512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_021" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 1-021.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="marty_mcfly_5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\marty-mcfly-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_5dds121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\7-5dds121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guncheckblach1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\guncheckblach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Menu_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Menu_2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="settings_5122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\settings-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_5dds1211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7-5dds121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="round_add_button_copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\round-add-button copy1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0336_disc_floppy_save_software1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thin-0336_disc_floppy_save_software.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mohr_Clinic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mohr Clinic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0060_error_warning_danger_stop_delete_exit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\thin-0060_error_warning_danger_stop_delete_exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="round_add_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\round-add-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Menu_Close_Dynamic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Menu_Close_Dynamic.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="refresh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\refresh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GtickSmallGreen1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\GtickSmallGreen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_105375_OMK093_166" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\105375-OMK093-166.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GCrossSmallBlack1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\GCrossSmallBlack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0336_disc_floppy_save_software" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\thin-0336_disc_floppy_save_software.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cam_flashing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\cam_flashing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_022" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 1-02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tick_mark_icon_png_6619" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Tick-mark-icon-png-6619.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="password2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\password.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="settings_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\settings-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="index11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\index1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_94832_200_copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\94832-200 copy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="index" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\index.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="round_add_button_copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\round-add-button copy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smartphone1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\smartphone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0131_arrow_back_undo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thin-0131_arrow_back_undo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="refresh1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\refresh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back-ConvertImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back-ConvertImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0060_error_warning_danger_stop_delete_exit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thin-0060_error_warning_danger_stop_delete_exit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 1-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="R105375_OMK093_166" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\R105375-OMK093-166.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gcheckwhite1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\gcheckwhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="skeleton-view-on-x-ray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skeleton-view-on-x-ray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_dd5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7-dd512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back_arrow_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\back-arrow-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_51211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Menu_Open_Dynamic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Menu_Open_Dynamic.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="location1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\location.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="no_photo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\no-photo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mohr_Clinic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Mohr Clinic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ezgif_com_resize_50_dar_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\ezgif.com-resize 50 dar 50.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Save_501" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Save-50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pointer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pointer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0055_settings_tools_configuration_preferences" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\thin-0055_settings_tools_configuration_preferences.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stethoscope_medical_tool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\stethoscope-medical-tool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Camera_Flashing___Copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Camera_Flashing - Copy.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guncheckwhite1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\guncheckwhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="id_card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\id-card.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search_file_1281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search_file-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UploadPhotos_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\UploadPhotos-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="no_pic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\no pic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picawesome_burger1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\picawesome_burger.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0055_settings_tools_configuration_preferences1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thin-0055_settings_tools_configuration_preferences.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clinic_clipart_4532" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clinic-clipart-453.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search_user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\search user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="check1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\check.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CameraAdd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\CameraAdd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_Small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\menu Small.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clinic_clipart_453" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\clinic-clipart-453.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="no_pic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\no pic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CancelWhiteBig1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\CancelWhiteBig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_0211" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 1-021.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_221" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="index1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\index1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Very_Basic_Cancel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Very Basic Cancel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mohr_Clinic_red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Mohr Clinic red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_7_51g21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7-51g2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_1_02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\Step 1-02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thin_0707_user_profile_remove_delete1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thin-0707_user_profile_remove_delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="check" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\check.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="v_18_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\v-18-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="edit_11_xxl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\edit-11-xxl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="next_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\next left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="password" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\password.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="password11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Model\Resources\password1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Step_311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Step 31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_database_add_103467" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_database_add_103467.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

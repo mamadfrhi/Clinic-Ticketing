@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_ClinicStoreContainer" CdmEntityContainer="DB_ClinicEntities">
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="DB_Clinic.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="DB_Clinic.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="SP_Del_Recep_By_PatID" FunctionName="DB_Clinic.Store.SP_Del_Recep_By_PatID" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="DB_Clinic.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="SP_FindLast" FunctionName="DB_Clinic.Store.SP_FindLast">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DB_Clinic.SP_FindLast_Result3">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="Dr_Name" ColumnName="Dr_Name" />
+          <ScalarProperty Name="ServTitle" ColumnName="ServTitle" />
+          <ScalarProperty Name="SecTitle" ColumnName="SecTitle" />
+          <ScalarProperty Name="VisitDate" ColumnName="VisitDate" />
+          <ScalarProperty Name="VisitTime" ColumnName="VisitTime" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="DB_Clinic.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DB_Clinic.sp_helpdiagramdefinition_Result1">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="DB_Clinic.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DB_Clinic.sp_helpdiagrams_Result1">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="DB_Clinic.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="SP_SelectAndCount_Pat_Images" FunctionName="DB_Clinic.Store.SP_SelectAndCount_Pat_Images" />
+    <FunctionImportMapping FunctionImportName="SP_SelectDrIDBy_Codes" FunctionName="DB_Clinic.Store.SP_SelectDrIDBy_Codes" />
+    <FunctionImportMapping FunctionImportName="SP_SelectDrIDByName" FunctionName="DB_Clinic.Store.SP_SelectDrIDByName" />
+    <FunctionImportMapping FunctionImportName="SP_Update_TblPatient_ColImgCoutn" FunctionName="DB_Clinic.Store.SP_Update_TblPatient_ColImgCoutn" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="DB_Clinic.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="SP_GetPatImages" FunctionName="DB_Clinic.Store.SP_GetPatImages">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DB_Clinic.SP_GetPatImages_Result4">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="PatientID" ColumnName="PatientID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_Del_All_OF_PatImage" FunctionName="DB_Clinic.Store.SP_Del_All_OF_PatImage">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DB_Clinic.SP_Del_All_OF_PatImage_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="PatientID" ColumnName="PatientID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_Del_One_OF_PatImage" FunctionName="DB_Clinic.Store.SP_Del_One_OF_PatImage" />
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DB_Clinic.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Doctor">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_Doctor">
+        <MappingFragment StoreEntitySet="Tbl_Doctor">
+          <ScalarProperty Name="Image_Dr" ColumnName="Image_Dr" />
+          <ScalarProperty Name="adrs" ColumnName="adrs" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Ncode" ColumnName="Ncode" />
+          <ScalarProperty Name="MedicalCode" ColumnName="MedicalCode" />
+          <ScalarProperty Name="Skill" ColumnName="Skill" />
+          <ScalarProperty Name="name_dr" ColumnName="name_dr" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Pat_Images">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_Pat_Images">
+        <MappingFragment StoreEntitySet="Tbl_Pat_Images">
+          <ScalarProperty Name="PatientID" ColumnName="PatientID" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Patient">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_Patient">
+        <MappingFragment StoreEntitySet="Tbl_Patient">
+          <ScalarProperty Name="CountOfPictures" ColumnName="CountOfPictures" />
+          <ScalarProperty Name="Ncode" ColumnName="Ncode" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="adrs" ColumnName="adrs" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Reception">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_Reception">
+        <MappingFragment StoreEntitySet="Tbl_Reception">
+          <ScalarProperty Name="VisitDate" ColumnName="VisitDate" />
+          <ScalarProperty Name="VisitTime" ColumnName="VisitTime" />
+          <ScalarProperty Name="SecID" ColumnName="SecID" />
+          <ScalarProperty Name="ServID" ColumnName="ServID" />
+          <ScalarProperty Name="PatID" ColumnName="PatID" />
+          <ScalarProperty Name="DocID" ColumnName="DocID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Role">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_Role">
+        <MappingFragment StoreEntitySet="Tbl_Role">
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Section">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_Section">
+        <MappingFragment StoreEntitySet="Tbl_Section">
+          <ScalarProperty Name="SecTitle" ColumnName="SecTitle" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_Service">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_Service">
+        <MappingFragment StoreEntitySet="Tbl_Service">
+          <ScalarProperty Name="ServTitle" ColumnName="ServTitle" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_User">
+      <EntityTypeMapping TypeName="DB_Clinic.Tbl_User">
+        <MappingFragment StoreEntitySet="Tbl_User">
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="Mob" ColumnName="Mob" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="NameAndFamily" ColumnName="NameAndFamily" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vw_Dr">
+      <EntityTypeMapping TypeName="DB_Clinic.Vw_Dr">
+        <MappingFragment StoreEntitySet="Vw_Dr">
+          <ScalarProperty Name="adrs" ColumnName="adrs" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Ncode" ColumnName="Ncode" />
+          <ScalarProperty Name="MedicalCode" ColumnName="MedicalCode" />
+          <ScalarProperty Name="Skill" ColumnName="Skill" />
+          <ScalarProperty Name="name_dr" ColumnName="name_dr" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vw_Pat">
+      <EntityTypeMapping TypeName="DB_Clinic.Vw_Pat">
+        <MappingFragment StoreEntitySet="Vw_Pat">
+          <ScalarProperty Name="adrs" ColumnName="adrs" />
+          <ScalarProperty Name="Ncode" ColumnName="Ncode" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vw_PatientWithImages">
+      <EntityTypeMapping TypeName="DB_Clinic.Vw_PatientWithImages">
+        <MappingFragment StoreEntitySet="Vw_PatientWithImages">
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Ncode" ColumnName="Ncode" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="adrs" ColumnName="adrs" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vw_Reception">
+      <EntityTypeMapping TypeName="DB_Clinic.Vw_Reception">
+        <MappingFragment StoreEntitySet="Vw_Reception">
+          <ScalarProperty Name="VisitTime" ColumnName="VisitTime" />
+          <ScalarProperty Name="VisitDate" ColumnName="VisitDate" />
+          <ScalarProperty Name="SecTitle" ColumnName="SecTitle" />
+          <ScalarProperty Name="ServTitle" ColumnName="ServTitle" />
+          <ScalarProperty Name="Dr_Name" ColumnName="Dr_Name" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vw_Sec">
+      <EntityTypeMapping TypeName="DB_Clinic.Vw_Sec">
+        <MappingFragment StoreEntitySet="Vw_Sec">
+          <ScalarProperty Name="SecTitle" ColumnName="SecTitle" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vw_Ser">
+      <EntityTypeMapping TypeName="DB_Clinic.Vw_Ser">
+        <MappingFragment StoreEntitySet="Vw_Ser">
+          <ScalarProperty Name="ServTitle" ColumnName="ServTitle" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vw_VisitTime">
+      <EntityTypeMapping TypeName="DB_Clinic.vw_VisitTime">
+        <MappingFragment StoreEntitySet="vw_VisitTime">
+          <ScalarProperty Name="select" ColumnName="select" />
+          <ScalarProperty Name="DocNo" ColumnName="DocNo" />
+          <ScalarProperty Name="ServTitle" ColumnName="ServTitle" />
+          <ScalarProperty Name="Expr1" ColumnName="Expr1" />
+          <ScalarProperty Name="TimeResidan" ColumnName="TimeResidan" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="TimeNobat" ColumnName="TimeNobat" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="family" ColumnName="family" />
+          <ScalarProperty Name="SecTitle" ColumnName="SecTitle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_Clinic" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DB_ClinicEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="SP_Del_Recep_By_PatID">
+      <Parameter Name="PATID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_FindLast" ReturnType="Collection(DB_Clinic.SP_FindLast_Result3)" />
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(DB_Clinic.sp_helpdiagramdefinition_Result1)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(DB_Clinic.sp_helpdiagrams_Result1)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_SelectAndCount_Pat_Images" ReturnType="Collection(Int32)">
+      <Parameter Name="IDPAT_Input" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_SelectDrIDBy_Codes" ReturnType="Collection(Int32)">
+      <Parameter Name="DR_MOBILE" Mode="In" Type="String" />
+      <Parameter Name="DR_NCODE" Mode="In" Type="String" />
+      <Parameter Name="DR_MedicalCode" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_SelectDrIDByName" ReturnType="Collection(Int32)">
+      <Parameter Name="DR_NAME" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_Update_TblPatient_ColImgCoutn">
+      <Parameter Name="PATID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <FunctionImport Name="SP_GetPatImages" ReturnType="Collection(DB_Clinic.SP_GetPatImages_Result4)">
+      <Parameter Name="PATID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_Del_All_OF_PatImage" ReturnType="Collection(DB_Clinic.SP_Del_All_OF_PatImage_Result)">
+      <Parameter Name="PATID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SP_Del_One_OF_PatImage">
+      <Parameter Name="Img_ID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <EntitySet Name="sysdiagrams" EntityType="DB_Clinic.sysdiagram" />
+    <EntitySet Name="Tbl_Doctor" EntityType="DB_Clinic.Tbl_Doctor" />
+    <EntitySet Name="Tbl_Pat_Images" EntityType="DB_Clinic.Tbl_Pat_Images" />
+    <EntitySet Name="Tbl_Patient" EntityType="DB_Clinic.Tbl_Patient" />
+    <EntitySet Name="Tbl_Reception" EntityType="DB_Clinic.Tbl_Reception" />
+    <EntitySet Name="Tbl_Role" EntityType="DB_Clinic.Tbl_Role" />
+    <EntitySet Name="Tbl_Section" EntityType="DB_Clinic.Tbl_Section" />
+    <EntitySet Name="Tbl_Service" EntityType="DB_Clinic.Tbl_Service" />
+    <EntitySet Name="Tbl_User" EntityType="DB_Clinic.Tbl_User" />
+    <EntitySet Name="Vw_Dr" EntityType="DB_Clinic.Vw_Dr" />
+    <EntitySet Name="Vw_Pat" EntityType="DB_Clinic.Vw_Pat" />
+    <EntitySet Name="Vw_PatientWithImages" EntityType="DB_Clinic.Vw_PatientWithImages" />
+    <EntitySet Name="Vw_Reception" EntityType="DB_Clinic.Vw_Reception" />
+    <EntitySet Name="Vw_Sec" EntityType="DB_Clinic.Vw_Sec" />
+    <EntitySet Name="Vw_Ser" EntityType="DB_Clinic.Vw_Ser" />
+    <EntitySet Name="vw_VisitTime" EntityType="DB_Clinic.vw_VisitTime" />
+    <AssociationSet Name="FK_Tbl_Reception_Tbl_Doctor" Association="DB_Clinic.FK_Tbl_Reception_Tbl_Doctor">
+      <End Role="Tbl_Doctor" EntitySet="Tbl_Doctor" />
+      <End Role="Tbl_Reception" EntitySet="Tbl_Reception" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Pat_Images_Tbl_Patient1" Association="DB_Clinic.FK_Tbl_Pat_Images_Tbl_Patient1">
+      <End Role="Tbl_Patient" EntitySet="Tbl_Patient" />
+      <End Role="Tbl_Pat_Images" EntitySet="Tbl_Pat_Images" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Reception_Tbl_Patient" Association="DB_Clinic.FK_Tbl_Reception_Tbl_Patient">
+      <End Role="Tbl_Patient" EntitySet="Tbl_Patient" />
+      <End Role="Tbl_Reception" EntitySet="Tbl_Reception" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Reception_Tbl_Section" Association="DB_Clinic.FK_Tbl_Reception_Tbl_Section">
+      <End Role="Tbl_Section" EntitySet="Tbl_Section" />
+      <End Role="Tbl_Reception" EntitySet="Tbl_Reception" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Reception_Tbl_Service" Association="DB_Clinic.FK_Tbl_Reception_Tbl_Service">
+      <End Role="Tbl_Service" EntitySet="Tbl_Service" />
+      <End Role="Tbl_Reception" EntitySet="Tbl_Reception" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_User_Tbl_Role1" Association="DB_Clinic.FK_Tbl_User_Tbl_Role1">
+      <End Role="Tbl_Role" EntitySet="Tbl_Role" />
+      <End Role="Tbl_User" EntitySet="Tbl_User" />
+    </AssociationSet>
+  </EntityContainer>
+  <ComplexType Name="SP_FindLast_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="mobile" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="ServTitle" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SecTitle" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Dr_Name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="VisitDate" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="VisitTime" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_GetPatImages_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_FindLast_Result1">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="mobile" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="ServTitle" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SecTitle" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Dr_Name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="VisitDate" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="VisitTime" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_GetPatImages_Result1">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_FindLast_Result2">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="mobile" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="ServTitle" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SecTitle" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Dr_Name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="VisitDate" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="VisitTime" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_GetPatImages_Result2">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="select_all_Rec_Tbl_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Int32" Name="DocID" Nullable="true" />
+    <Property Type="Int32" Name="PatID" Nullable="true" />
+    <Property Type="Int32" Name="ServID" Nullable="true" />
+    <Property Type="Int32" Name="SecID" Nullable="true" />
+    <Property Type="String" Name="VisitTime" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="VisitDate" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_Del_PatImages_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_Del_PatImages_Result1">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_FindLast_Result3">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="mobile" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Dr_Name" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="ServTitle" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SecTitle" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="VisitDate" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="VisitTime" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="SP_GetPatImages_Result3">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result1">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result1">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_Del_PatImages_Result2">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_GetPatImages_Result4">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="SP_Del_All_OF_PatImage_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="Binary" Name="Image" Nullable="true" MaxLength="Max" />
+    <Property Type="Int32" Name="PatientID" Nullable="false" />
+  </ComplexType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Tbl_Doctor">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name_dr" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Skill" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MedicalCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ncode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adrs" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Image_Dr" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Tbl_Reception" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Doctor" FromRole="Tbl_Doctor" ToRole="Tbl_Reception" />
+  </EntityType>
+  <EntityType Name="Tbl_Pat_Images">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="PatientID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Tbl_Patient" Relationship="DB_Clinic.FK_Tbl_Pat_Images_Tbl_Patient1" FromRole="Tbl_Pat_Images" ToRole="Tbl_Patient" />
+  </EntityType>
+  <EntityType Name="Tbl_Patient">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adrs" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mobile" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ncode" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CountOfPictures" Type="Int32" />
+    <NavigationProperty Name="Tbl_Pat_Images" Relationship="DB_Clinic.FK_Tbl_Pat_Images_Tbl_Patient1" FromRole="Tbl_Patient" ToRole="Tbl_Pat_Images" />
+    <NavigationProperty Name="Tbl_Reception" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Patient" FromRole="Tbl_Patient" ToRole="Tbl_Reception" />
+  </EntityType>
+  <EntityType Name="Tbl_Reception">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DocID" Type="Int32" Nullable="false" />
+    <Property Name="PatID" Type="Int32" />
+    <Property Name="ServID" Type="Int32" Nullable="false" />
+    <Property Name="SecID" Type="Int32" Nullable="false" />
+    <Property Name="VisitTime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="VisitDate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_Doctor" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Doctor" FromRole="Tbl_Reception" ToRole="Tbl_Doctor" />
+    <NavigationProperty Name="Tbl_Patient" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Patient" FromRole="Tbl_Reception" ToRole="Tbl_Patient" />
+    <NavigationProperty Name="Tbl_Section" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Section" FromRole="Tbl_Reception" ToRole="Tbl_Section" />
+    <NavigationProperty Name="Tbl_Service" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Service" FromRole="Tbl_Reception" ToRole="Tbl_Service" />
+  </EntityType>
+  <EntityType Name="Tbl_Role">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Role" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_User" Relationship="DB_Clinic.FK_Tbl_User_Tbl_Role1" FromRole="Tbl_Role" ToRole="Tbl_User" />
+  </EntityType>
+  <EntityType Name="Tbl_Section">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SecTitle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_Reception" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Section" FromRole="Tbl_Section" ToRole="Tbl_Reception" />
+  </EntityType>
+  <EntityType Name="Tbl_Service">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ServTitle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tbl_Reception" Relationship="DB_Clinic.FK_Tbl_Reception_Tbl_Service" FromRole="Tbl_Service" ToRole="Tbl_Reception" />
+  </EntityType>
+  <EntityType Name="Tbl_User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Pass" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NameAndFamily" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mob" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RoleID" Type="Int32" />
+    <Property Name="img" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Tbl_Role" Relationship="DB_Clinic.FK_Tbl_User_Tbl_Role1" FromRole="Tbl_User" ToRole="Tbl_Role" />
+  </EntityType>
+  <EntityType Name="Vw_Dr">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="name_dr" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name_dr" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Skill" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MedicalCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ncode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adrs" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Vw_Pat">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="mobile" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mobile" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ncode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adrs" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Vw_PatientWithImages">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="mobile" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adrs" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mobile" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ncode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Vw_Reception">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="mobile" />
+      <PropertyRef Name="Dr_Name" />
+      <PropertyRef Name="SecTitle" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="mobile" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Dr_Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ServTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SecTitle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="VisitDate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="VisitTime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Vw_Sec">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="SecTitle" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SecTitle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Vw_Ser">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ServTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="vw_VisitTime">
+    <Key>
+      <PropertyRef Name="SecTitle" />
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="SecTitle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="family" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="TimeNobat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="TimeResidan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Expr1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ServTitle" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DocNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="select" Type="Boolean" />
+  </EntityType>
+  <Association Name="FK_Tbl_Reception_Tbl_Doctor">
+    <End Type="DB_Clinic.Tbl_Doctor" Role="Tbl_Doctor" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="DB_Clinic.Tbl_Reception" Role="Tbl_Reception" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Doctor">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Tbl_Reception">
+        <PropertyRef Name="DocID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Pat_Images_Tbl_Patient1">
+    <End Type="DB_Clinic.Tbl_Patient" Role="Tbl_Patient" Multiplicity="1" />
+    <End Type="DB_Clinic.Tbl_Pat_Images" Role="Tbl_Pat_Images" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Patient">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Tbl_Pat_Images">
+        <PropertyRef Name="PatientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Reception_Tbl_Patient">
+    <End Type="DB_Clinic.Tbl_Patient" Role="Tbl_Patient" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="DB_Clinic.Tbl_Reception" Role="Tbl_Reception" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Patient">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Tbl_Reception">
+        <PropertyRef Name="PatID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Reception_Tbl_Section">
+    <End Type="DB_Clinic.Tbl_Section" Role="Tbl_Section" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="DB_Clinic.Tbl_Reception" Role="Tbl_Reception" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Section">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Tbl_Reception">
+        <PropertyRef Name="SecID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Reception_Tbl_Service">
+    <End Type="DB_Clinic.Tbl_Service" Role="Tbl_Service" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="DB_Clinic.Tbl_Reception" Role="Tbl_Reception" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Service">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Tbl_Reception">
+        <PropertyRef Name="ServID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_User_Tbl_Role1">
+    <End Type="DB_Clinic.Tbl_Role" Role="Tbl_Role" Multiplicity="0..1" />
+    <End Type="DB_Clinic.Tbl_User" Role="Tbl_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tbl_Role">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Tbl_User">
+        <PropertyRef Name="RoleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

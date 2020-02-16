@@ -1,0 +1,999 @@
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\MetroFramework.Design.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\MetroFramework.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App\Clinic App\Clinic App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\MetroFramework.Design.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\MetroFramework.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextBox.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.Design.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikCommon.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\VisualStyleBuilder.Design.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\RadControlSpy.dll
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextBox.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextBox.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.Design.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikCommon.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\VisualStyleBuilder.Design.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\RadControlSpy.dll
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextBox.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+H:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.Design.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikCommon.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\RadControlSpy.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SigIn.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_1.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_2.resources
+C:\Users\iMamad\Desktop\Programing\Windows App\Khodam\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_3.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SigIn.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_1.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_2.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_3.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.pdb
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Visit_Timing.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.exe.licenses
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Report.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit1.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.Clinic App.exe.config
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_EditImages.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Test.resources
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ToastNotifications.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ToastNotifications.Messages.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\WindowsBase.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ToastinetWPF.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\WPFNotification.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\System.Windows.Interactivity.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikExport.xml
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EQATEC.Analytics.Monitor.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\RadControlSpy.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Material.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.Design.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikCommon.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikData.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikExport.dll
+E:\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\EQATEC.Analytics.Monitor.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikExport.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ToastinetWPF.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ToastNotifications.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\WindowsBase.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\WPFNotification.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.pdb
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\TelerikExport.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.Clinic App.exe.config
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit1.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_EditImages.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Report.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SigIn.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_1.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_2.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_3.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Visit_Timing.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Test.resources
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic App.exe.licenses
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\ThemeViewer.exe
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\CircularProgressBar.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\WinFormAnimation.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\CircularProgressBar.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\WinFormAnimation.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.dll
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.pdb
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.xml
+C:\Users\iMamad\Desktop\4-Clinic App V1.5\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Waiting.resources
+C:\Users\iMamad\Desktop\Project\First Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+C:\Users\iMamad\Desktop\Project\First Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\Project\First Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EQATEC.Analytics.Monitor.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\RadControlSpy.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.Design.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikCommon.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikData.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikExport.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastinetWPF.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.Messages.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WindowsBase.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WPFNotification.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.pdb
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.pdb
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikExport.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.xml
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.Clinic App.exe.config
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit1.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_EditImages.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Report.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SigIn.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_1.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_2.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_3.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Visit_Timing.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Waiting.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Test.resources
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+C:\Users\iMamad\Desktop\Project\Please, First Read Texts and then Install Requirments\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe.licenses
+C:\Users\iMamad\Desktop\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+C:\Users\iMamad\Desktop\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+C:\Users\iMamad\Desktop\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastinetWPF.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.Messages.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WindowsBase.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WPFNotification.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\System.Windows.Interactivity.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.pdb
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.pdb
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikExport.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.Clinic App.exe.config
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit1.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_EditImages.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Report.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SigIn.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_1.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_2.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_3.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Visit_Timing.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Waiting.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Test.resources
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe.licenses
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\RdlCompile.cache
+D:\Programing BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\RdlCompile.compiled
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EQATEC.Analytics.Monitor.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\RadControlSpy.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.Design.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikCommon.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikData.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikExport.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ThemeViewer.exe
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastinetWPF.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.Messages.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WindowsBase.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WPFNotification.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\System.Windows.Interactivity.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.pdb
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.pdb
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikExport.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.Clinic App.exe.config
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit1.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_EditImages.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Report.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SigIn.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_1.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_2.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_3.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Visit_Timing.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Waiting.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Test.resources
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe.licenses
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\RdlCompile.cache
+D:\Develop BackUp New\Programing\Windows App\Khodam\____Project__Last\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\RdlCompile.compiled
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csprojResolveAssemblyReference.cache
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.Clinic App.exe.config
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Edit1.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_EditImages.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Reception.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Report.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Searching.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Settings.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SigIn.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_1.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_2.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_SignUp_Step_3.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Splash2.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_View_All_Tbls.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Visit_Timing.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Waiting.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Form_Main.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Properties.Resources.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic_App.Test.resources
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.csproj.GenerateResource.Cache
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe.licenses
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.exe
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\obj\Debug\Clinic App.pdb
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe.config
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.exe
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Clinic App.pdb
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EQATEC.Analytics.Monitor.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\RadControlSpy.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.Design.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikCommon.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikData.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikExport.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ThemeViewer.exe
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastinetWPF.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ToastNotifications.Messages.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WindowsBase.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WPFNotification.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.mshtml.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\System.Windows.Interactivity.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\CircularProgressBar.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.pdb
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\NotificationsExtensions.Win10.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.pdb
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\QueryString.NETCore.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Analytics.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDiagram.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMap.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.SpellChecker.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.WinControls.UI.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\Telerik.Windows.Zip.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikData.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\TelerikExport.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\WinFormAnimation.xml
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Develop BackUp New\2-Clinic App V5.3 Finallllll\Clinic App\Clinic App\bin\Debug\ThemeViewer.exe.config
